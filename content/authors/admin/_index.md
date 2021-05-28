@@ -20,7 +20,7 @@ bio: My interests include data analysis, IOT, robotics, mobile computing and pro
 interests:
 - Data Warehouse: Redshift, Azure, AWS e SQL Server
 - Data Viz: Power BI and Tableau
-- Estudos: R e Python Jupyter
+- Estudos: Data Science R e Python Jupyter
 
 # Education to show in About widget
 education:
@@ -58,7 +58,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "gudelafonte@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
